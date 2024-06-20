@@ -6,7 +6,7 @@
 
 使用语言：java
 
-联系我：Q 101238416
+联系我：Q 1012384516
 
 **后端大概**
 ![](https://github.com/lvlucky/gongyizhongchou/blob/main/i1.png)
